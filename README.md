@@ -47,4 +47,7 @@ You can open multiple terminals and run multiple clients to test multithreading.
 🎯 Future Enhancements
 🔹 Add a Graphical User Interface (GUI) using Java Swing or JavaFX
 🔹 Implement User Authentication (e.g., login system)
-🔹 Add File Transfer Support between clients
+🔹 Add File Transfer Support between clients.
+***Output  :
+![Image](https://github.com/user-attachments/assets/818a2543-076e-492d-9be8-994adaf7f47d)
+![Image](https://github.com/user-attachments/assets/fd027664-26e0-451f-87ce-acd9000d025f)
