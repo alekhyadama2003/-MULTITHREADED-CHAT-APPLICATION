@@ -40,6 +40,7 @@ sh
 Copy
 Edit
 javac ChatClient.java  
+**Output : ![Image](https://github.com/user-attachments/assets/e5814676-1067-4b86-a0d1-779d26f148cb)
 java ChatClient  
 You can open multiple terminals and run multiple clients to test multithreading.
 🎯 Future Enhancements
